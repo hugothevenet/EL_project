@@ -13,5 +13,7 @@ good estimation for the daily price variation of electricity futures contracts i
 France and Germany.
 
 ## Students participating :
-- Hugo THEVENET B00815357
-- 
+- Duoer Gu
+- Hugo Thevenet B00815357
+- Ayush Tankha
+- Jatin Singh
