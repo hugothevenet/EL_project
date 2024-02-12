@@ -15,5 +15,5 @@ France and Germany.
 ## Students participating :
 - Duoer Gu  duoer.gu@student-cs.fr
 - Hugo Thevenet B00815357
-- Ayush Tankha B00802762
+- Ayush Tankha ayush.tankha@student-cs.fr
 - Jatin Singh
