@@ -1,13 +1,18 @@
 # Course Project: Electricity Price Explanation 
 
 ## Repository Description :
+
+**Main notebooks : `preprocessing.ipynb`, `simple_models_benchmark.ipynb`, `XGB+RF_Hypertuning_and_stacking.ipynb`**
+
 - `dataset` folder contains all datasets to fit the models, including the preprocessed ones
 - `notebooks (root)` folder contains the notebook for preprocessing and analyzing the data
 - `notebooks/predicting_models` folder contains the models used for prediction. More precisely, there is a notebook with a benchmark of some simple models, then one notebook for each advanced model.
 - `results` folder contains all csv results files to be submitted.
 - `presentation` folder contains our report
 - `provided materials` contains the initial notebooks provided by QRT
-  
+
+
+
 ## Abstract
 Every day, a multitude of factors impact the price of electricity. This chal-
 lenge aims to model the electricity price from weather, energy, and commercial
