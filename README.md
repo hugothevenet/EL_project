@@ -29,4 +29,5 @@ France and Germany.
 - Duoer Gu  duoer.gu@student-cs.fr
 - Hugo Thevenet hugo.thevenet@student-cs.fr
 - Ayush Tankha ayush.tankha@student-cs.fr
-- Jatin Singh
+- Jatin Singh jatin.singh@student-cs.fr
+
